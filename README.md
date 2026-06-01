@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 **Languages:**
-`Java` · `JavaScript` · `Python` · `PHP` · `SQL`
+`JavaScript` · `Python` · `PHP` · `SQL`
 
 **Frontend:**
 `React.js` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS` · `TypeScript`
